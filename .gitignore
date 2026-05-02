@@ -1,0 +1,13 @@
+# FVM
+.fvm/flutter_sdk
+.fvm/versions
+
+# Build outputs
+.dart_tool/
+build/
+android/.gradle/
+android/build/
+android/app/build/
+
+# Generated
+.flutter-plugins-dependencies
